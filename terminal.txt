@@ -3,14 +3,22 @@ AULA 01
 // hyper.is - terminal like macOS
 // fonte file > firecode > retina
 // dracula theme > terminal.app
-// https://draculatheme.com/terminal/
+https://draculatheme.com/terminal/
+
+instalation in: https://github.com/dracula/gnome-terminal
+sudo apt-get install dconf-cli
+git clone https://github.com/GalaticStryder/gnome-terminal-colors-dracula
+cd gnome-terminal-colors-dracula
+./install.sh
+
+// old
 // git clone https://github.com/dracula/terminal-app.git
 // configure terminal > add theme and set default
 
 AULA 02
 
 // ohmyz (colour theme)
-// sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)
+// sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 // ohmyz spaceship
 // https://github.com/denysdovhan/spaceship-prompt
