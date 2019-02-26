@@ -1,0 +1,17 @@
+AULA 01
+
+extensões chrome
+- react developer tools
+- dracula devtools theme
+  -  extension > dev tool theme
+  - how to install > copy url
+  - enable dev tools experiments > relaunch
+  - f11 (dev tools) > settings > experiments > allow custom UI themes
+
+AULA 02
+
+ferramentas
+- insomnia (http://insomnia.rest)
+- devdocs app
+  - settings > enable javascript, react, react native, node 10
+  

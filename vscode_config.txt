@@ -1,0 +1,49 @@
+AULA 01
+
+instalar tema Dracula Official
+preferences > color scheme > Dracula
+
+instalar fontes [font ligatures]
+1 - https://github.com/tonsky/FiraCode
+2 - Download v1.xxx
+3 - add to operational system
+4 - ctrl + shift + p > settings > open settings JSON
+5 - add lines
+"editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"editor.fontSize": 18,
+"editor.lineHeight": 24
+6 - save
+
+instalar vscode-icons
+
+AULA 02
+
+configure settings
+
+"editor.formatOnSave": true,
+"editor.rulers": [80, 120],
+"editor.tabSize": 2,
+"editor.renderLineHighlight": "gutter",
+"terminal.integrated.fontSize": 14,
+"emmet.syntaxProfiles": {
+  "javascript": "jsx"
+},
+"emmet.includeLanguages": {
+  "javascript": "javascriptreact"
+},
+"javascript.updateImportsOnFileMove.enabled": "never",
+"breadcrumbs.enabled": true,
+"editor.parameterHints.enabled": false
+
+AULA 03
+
+Color Highlight
+EditorConfig for VS Code
+ESLint
+Prettier
+Rocketseat plugins snnipets
+
+configure settings
+"prettier.eslintIntegration": true
+
